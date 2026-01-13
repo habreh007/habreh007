@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Habib-ur-Rehman<br><br>I’m a Machine Learning Engineer & Data Analyst who enjoys building real-world AI systems, performing insight-driven EDA and deploying models using Python & Streamlit. I focus on clean, competition-ready solutions and continuous learning.<br><br>🔭 I’m currently working on: ML & AI projects, EDA workflows, Streamlit apps<br>👯 I’m looking to collaborate on: ML, DL, Data Science & Open-source projects<br>🤝 I’m looking for help with: Advanced ML systems & deployment<br>🌱 I’m currently learning: Deep Learning, AI agents, low-level scripting<br>💬 Ask me about: Python, EDA, ML, Streamlit, Computer Vision<br>⚡ Fun fact: Discipline > motivation. Every single day.
+# 👋 Hi, I’m Habib-ur-Rehman<br><br>
+I’m a Machine Learning Engineer & Data Analyst who enjoys building real-world AI systems, performing insight-driven EDA and deploying models using Python & Streamlit. I focus on clean, competition-ready solutions and continuous learning.<br><br>🔭 I’m currently working on: ML & AI projects, EDA workflows, Streamlit apps<br>👯 I’m looking to collaborate on: ML, DL, Data Science & Open-source projects<br>🤝 I’m looking for help with: Advanced ML systems & deployment<br>🌱 I’m currently learning: Deep Learning, AI agents, low-level scripting<br>💬 Ask me about: Python, EDA, ML, Streamlit, Computer Vision<br>⚡ Fun fact: Discipline > motivation. Every single day.
 
 
 ## 🌐 Socials:
