@@ -1,18 +1,107 @@
-# 👋 Hi, I’m Habib-ur-Rehman<br><br>
-I’m a Machine Learning Engineer & Data Analyst who enjoys building real-world AI systems, performing insight-driven EDA and deploying models using Python & Streamlit. I focus on clean, competition-ready solutions and continuous learning.<br><br>🔭 I’m currently working on: ML & AI projects, EDA workflows, Streamlit apps<br>👯 I’m looking to collaborate on: ML, DL, Data Science & Open-source projects<br>🤝 I’m looking for help with: Advanced ML systems & deployment<br>🌱 I’m currently learning: Deep Learning, AI agents, low-level scripting<br>💬 Ask me about: Python, EDA, ML, Streamlit, Computer Vision<br>⚡ Fun fact: Discipline > motivation. Every single day.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=900&lines=Hi,+I'm+Habib+Ur+Rehman;Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Building+Real-World+ML+Systems" alt="Habib Ur Rehman" />
+</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-ur-rehman-9aa31436b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habibreh253@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=habreh007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=habreh007&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=habreh007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" style="border-radius: 15px;">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=habreh007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+
+📊 **Machine Learning Engineer & Data Analyst**  
+🤖 Focused on **Machine Learning, Deep Learning, Computer Vision & NLP**  
+📈 Strong expertise in **EDA, data cleaning & visualization**  
+🚀 Building **competition-level and real-world AI projects**  
+🧠 Believer in **discipline, consistency & continuous growth**  
+
+> “Consistency turns effort into excellence.”  
+— *Habib Ur Rehman*
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Java-2563eb?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/C-0f766e?style=for-the-badge&logo=c&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/C++-3b82f6?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35"/>
+</div>
+
+---
+
+### 🤖 Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/EDA-1e40af?style=for-the-badge&logo=datadog&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/NumPy-2563eb?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Pandas-3b82f6?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-60a5fa?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-93c5fd?style=for-the-badge&logo=tensorflow&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/NLP-1e40af?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-2563eb?style=for-the-badge&logo=opencv&logoColor=white" height="35"/>
+</div>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jupyter,git,github,linux&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-1e40af?style=for-the-badge&logo=jupyter&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Git-2563eb?style=for-the-badge&logo=git&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Linux-60a5fa?style=for-the-badge&logo=linux&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Streamlit-93c5fd?style=for-the-badge&logo=streamlit&logoColor=white" height="35"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🌟 Explore My Work
+
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-1e40af?style=for-the-badge" height="50"/>
+  </a>
+</div>
+
+⭐ Star my repositories if you find them useful!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+</p>
